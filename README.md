@@ -1,4 +1,4 @@
-### Hi there 👋
+### 逸一时，误一世！
 
 <!--
 **HirojiFukuyama/HirojiFukuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
